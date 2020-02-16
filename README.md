@@ -6,6 +6,6 @@ Mnist dataset
 2.Handwriting_recognition_1.ipynb    
             mutltiple hidden layer neural network
             accuracy:-94.63%
-3.  Handwriting_recognition_2.ipynb    
+3.Handwriting_recognition_2.ipynb    
             mutltiple hidden layer neural network with droupout 0.3%
             accuracy:-97.92%          
