@@ -1,6 +1,6 @@
 # Handwrittendigits_recognition_with_keras
 Mnist dataset
-1.<b>Handwriting_recognition.ipynb<b> :-
+1.<b>Handwriting_recognition.ipynb</b> :-
             single layer neural network 
             accuracy:-11.35
 2.Handwriting_recognition_1.ipynb    
